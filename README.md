@@ -4,7 +4,7 @@
 
 2. 原作者的说明文档在这里：https://rainx.gitbooks.io/pytdx/content/
 
-3. 备份的说明文档在这里：https://counsel-chai.gitbook.io/pytdx-1/
+3. 备份的说明文档在这里：https://areur3ady.gitbook.io/pytdx-1/
 
 4. 原作者代码github地址：https://github.com/rainx/pytdx
 
@@ -14,7 +14,7 @@
 
 7. 本备份代码使用方法：
 
-   ```git
+   ```
    # 下载文件
    git clone https://github.com/areur3ady/pytdx_backup.git
    # 在pytdx-1.72.tar.gz文件所在文件夹打开命令行，进行pip安装
